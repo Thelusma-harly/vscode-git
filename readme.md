@@ -6,3 +6,5 @@
 -commit 4
 -commit 5
 -commit 6
+
+- This is a new line for testing pull and merge commands
